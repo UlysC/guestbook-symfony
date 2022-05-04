@@ -1,0 +1,7 @@
+{
+  "jobs": [
+    {
+      "command": "0/10 * * * * php /bin/cli/test.php"
+    }
+  ]
+}
