@@ -1,7 +1,8 @@
 {
   "jobs": [
     {
-      "command": "0/10 * * * * php /bin/cli/test.php"
+      "command": "0/11 * * * * php bin/cli/test.php",
+      "size": "1S"
     }
   ]
 }
